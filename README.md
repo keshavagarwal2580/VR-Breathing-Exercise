@@ -2,3 +2,8 @@ The VR Therapy Module features a tranquil virtual environment designed to promot
 Unity 2020.3+ or newer
 
 VR Headset (Oculus, HTC Vive, or compatible device)
+
+
+** To Play this Game you need to download the file from the given link in your laptop **
+
+https://drive.google.com/drive/folders/1SyuLPZggSLdzN3u4C1fT8A4cmAVhg70s?usp=sharing
